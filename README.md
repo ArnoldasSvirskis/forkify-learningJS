@@ -11,3 +11,5 @@ Main features which were programmed with JavaScript:
 - Saving data to local browsers storage
 
 App was implemented using Modal View Controller architecture
+
+Can test the - https://forkify-arnoldas.netlify.app/
